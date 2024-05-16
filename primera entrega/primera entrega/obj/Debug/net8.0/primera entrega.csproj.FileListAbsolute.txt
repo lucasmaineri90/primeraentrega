@@ -1,0 +1,4 @@
+C:\Users\Dj Tomi Pirchio\Desktop\C#\primera entrega\primera entrega\obj\Debug\net8.0\primera entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dj Tomi Pirchio\Desktop\C#\primera entrega\primera entrega\obj\Debug\net8.0\primera entrega.AssemblyInfoInputs.cache
+C:\Users\Dj Tomi Pirchio\Desktop\C#\primera entrega\primera entrega\obj\Debug\net8.0\primera entrega.AssemblyInfo.cs
+C:\Users\Dj Tomi Pirchio\Desktop\C#\primera entrega\primera entrega\obj\Debug\net8.0\primera entrega.csproj.CoreCompileInputs.cache
